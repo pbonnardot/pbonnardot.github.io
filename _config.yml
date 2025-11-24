@@ -57,33 +57,18 @@ plugins:
 
 author:
   name   : "Philippe Bonnardot"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "https://media-cdg4-2.cdn.whatsapp.net/v/t61.24694-24/568606797_2288994324905107_896314126005060795_n.jpg?ccb=11-4&oh=01_Q5Aa3AGMkvqAiVjPR0xgVtgy_2wLPKhqs5owk97I8tyGucJAoQ&oe=6931BFAC&_nc_sid=5e03e0&_nc_cat=106"
+  bio    : "Enseignant au lycée Jean-Baptiste Corot"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
